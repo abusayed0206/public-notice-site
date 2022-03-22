@@ -17,7 +17,7 @@
 
     <footer class="footer">
       <span class="footer__copyright">Copyright © {{ new Date().getFullYear() }}. </span>
-      <span class="footer__links">Maintained by <a href="https://cuetconnect.org/team"> CUET Connect Team </a></span>
+      <span class="footer__links">Maintained by <a href="https://cuetconnect.org/team" class="_blank"> CUET Connect Team </a></span>
     </footer>
 
   </div>
