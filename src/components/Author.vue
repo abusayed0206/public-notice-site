@@ -6,11 +6,11 @@
 		</h1>
 
 		<p class="author__intro">
-			A simple, hackable & minimalistic starter for Gridsome that uses Netlify CMS for content.
+			Website for publishing notices of CUET. Mostly external notices. Internal notices will be published on CUETCONNECT Forum.
 		</p>
 
 		<p class="author__links">
-			<a href="https://cuetconnect.org/">Follow on CUET Connect</a>
+			<a href="https://cuetconnect.org/">CUET Connect</a>
 			<a href="https://github.com/cuetconnect">GitHub</a>
 		</p>
 
