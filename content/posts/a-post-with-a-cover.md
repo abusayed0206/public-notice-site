@@ -6,17 +6,9 @@ tags:
   - BCS
   - Academic Success
 cover_image: ../../static/images/uploads/cuet-og.png
-description: "[চট্টগ্রাম প্রকৌশল বিশ্ববিদ্যালয় -
-  চুয়েট](https://web.facebook.com/%E0%A6%9A%E0%A6%9F%E0%A7%8D%E0%A6%9F%E0%A6%97\
-  %E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%AE-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%95%E0%\
-  A7%8C%E0%A6%B6%E0%A6%B2-%E0%A6%AC%E0%A6%BF%E0%A6%B6%E0%A7%8D%E0%A6%AC%E0%A6%A\
-  C%E0%A6%BF%E0%A6%A6%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B2%E0%A7%9F-%E0%A6%9A%E0\
-  %A7%81%E0%A7%9F%E0%A7%87%E0%A6%9F-102426071368034/?__cft__[0]=AZUkRd4DFBG-hS6\
-  yCai9-7GW96pjd3a2aL-LDCdIwWIWWjPuZ847VEypdkWefoNKC7puXIxlnYmux0hhWkE00zAWAY5e\
-  Sv4zWjvAn-VuRfa5KFx4sTF7sdi1XwhcgtfEyU5HjQSfpcwJrDIj3zH_UtnH&__tn__=kK-R) থেকে
-  ৪০ তম বিসিএস পরীক্ষায় সুপারিশপ্রাপ্ত প্রকৌশলীদের প্রাণঢালা অভিনন্দন।
-  দায়িত্বশীল আচরণ ও যোগ্য নেতৃত্বের দ্বারা দেশ বহুদুর এগিয়ে যাবে সেই প্রত্যাশা
-  সকলের।"
+description: চট্টগ্রাম প্রকৌশল বিশ্ববিদ্যালয় - চুয়েট থেকে ৪০ তম বিসিএস পরীক্ষায়
+  সুপারিশপ্রাপ্ত প্রকৌশলীদের প্রাণঢালা অভিনন্দন। দায়িত্বশীল আচরণ ও যোগ্য
+  নেতৃত্বের দ্বারা দেশ বহুদুর এগিয়ে যাবে সেই প্রত্যাশা সকলের।
 ---
 <!--StartFragment-->
 
